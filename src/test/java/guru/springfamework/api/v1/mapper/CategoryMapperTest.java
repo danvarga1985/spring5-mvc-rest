@@ -2,10 +2,9 @@ package guru.springfamework.api.v1.mapper;
 
 import guru.springfamework.api.v1.model.CategoryDTO;
 import guru.springfamework.domain.Category;
-import org.junit.Before;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class CategoryMapperTest {
 
